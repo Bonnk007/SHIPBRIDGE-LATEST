@@ -42,20 +42,7 @@ export default function ShellBar({ productName = 'ShipBridge', subtitle = 'SAP I
         {subtitle}
       </div>
 
-      {/* Centered search — Fiori's shell bar docks search in the middle. Static
-          for now; kept because the shape is a big part of what reads as SAP. */}
-      <div style={{ flex: 1, display: 'flex', justifyContent: 'center' }}>
-        <div style={{
-          display: 'flex', alignItems: 'center', gap: 8,
-          background: 'rgba(255,255,255,.1)', borderRadius: 6,
-          height: 28, width: 'min(280px, 32vw)', padding: '0 11px',
-        }}>
-          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="rgba(255,255,255,.6)" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-            <circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
-          </svg>
-          <span style={{ fontSize: 12.5, color: 'rgba(255,255,255,.5)' }}>Search</span>
-        </div>
-      </div>
+      <div style={{ flex: 1 }} />
 
       {/* Global upload — reachable from every screen, not just one corner. */}
       {onUpload && (
