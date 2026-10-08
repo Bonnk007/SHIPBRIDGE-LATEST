@@ -1,0 +1,3353 @@
+<?xml version="1.0" encoding="UTF-8"?><w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16sdtfl="http://schemas.microsoft.com/office/word/2024/wordml/sdtformatlock" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh w16sdtfl w16du wp14">
+  <w:body>
+    <w:p w:rsidR="00D55B7D" w:rsidP="00D55B7D" w:rsidRDefault="00D55B7D" w14:paraId="79633F53" w14:textId="77777777">
+      <w:pPr>
+        <w:pStyle w:val="Title"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="172A4D"/>
+        </w:rPr>
+      </w:pPr>
+      <w:bookmarkStart w:name="_Toc114686955" w:id="0"/>
+    </w:p>
+    <w:p w:rsidR="000259F0" w:rsidP="0030151C" w:rsidRDefault="00D55B7D" w14:paraId="70A41DE8" w14:textId="29429732">
+      <w:pPr>
+        <w:pStyle w:val="Title"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria" w:hAnsi="Cambria" w:eastAsiaTheme="minorEastAsia" w:cstheme="minorBidi"/>
+          <w:b/>
+          <w:color w:val="2B548C"/>
+          <w:sz w:val="32"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+        <w:t>Technical Specification Document</w:t>
+      </w:r>
+      <w:bookmarkEnd w:id="0"/>
+    </w:p>
+    <w:p w:rsidR="000259F0" w:rsidRDefault="000259F0" w14:paraId="4CADA435" w14:textId="77777777">
+      <w:pPr>
+        <w:pStyle w:val="Title"/>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w:rsidRPr="000259F0" w:rsidR="007C6CB9" w:rsidP="579D5B40" w:rsidRDefault="007C6CB9" w14:paraId="6C3895F9" w14:textId="6FBEE384">
+      <w:pPr>
+        <w:pStyle w:val="Title"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria" w:hAnsi="Cambria" w:eastAsia="" w:cs="" w:eastAsiaTheme="minorEastAsia" w:cstheme="minorBidi"/>
+          <w:b w:val="1"/>
+          <w:bCs w:val="1"/>
+          <w:color w:val="2B548C"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+        </w:rPr>
+        <w:t xml:space="preserve">Interface : :   </w:t>
+      </w:r>
+      
+      
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria" w:hAnsi="Cambria" w:eastAsia="" w:cs="" w:eastAsiaTheme="minorEastAsia" w:cstheme="minorBidi"/>
+          <w:b w:val="1"/>
+          <w:bCs w:val="1"/>
+          <w:color w:val="2B548C"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+        <w:t>{{INTERFACE_NAME}}</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="579D5B40" w:rsidP="579D5B40" w:rsidRDefault="579D5B40" w14:paraId="5A5B5CC0" w14:textId="081B05E5">
+      <w:pPr>
+        <w:pStyle w:val="Title"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria" w:hAnsi="Cambria" w:eastAsia="" w:cs="" w:eastAsiaTheme="minorEastAsia" w:cstheme="minorBidi"/>
+          <w:b w:val="1"/>
+          <w:bCs w:val="1"/>
+          <w:color w:val="2B548C"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w:rsidRPr="000259F0" w:rsidR="000259F0" w:rsidP="579D5B40" w:rsidRDefault="000259F0" w14:paraId="1186B867" w14:textId="245D87F2">
+      <w:pPr>
+        <w:pStyle w:val="Title"/>
+        <w:spacing w:before="0"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria" w:hAnsi="Cambria" w:eastAsia="" w:cs="" w:asciiTheme="majorAscii" w:hAnsiTheme="majorAscii" w:eastAsiaTheme="majorEastAsia" w:cstheme="majorBidi"/>
+          <w:color w:val="365F91" w:themeColor="accent1" w:themeShade="BF"/>
+        </w:rPr>
+      </w:pPr>
+      <w:bookmarkStart w:name="_Hlk219713244" w:id="1"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria" w:hAnsi="Cambria" w:eastAsia="" w:cs="" w:asciiTheme="majorAscii" w:hAnsiTheme="majorAscii" w:eastAsiaTheme="majorEastAsia" w:cstheme="majorBidi"/>
+          <w:color w:val="365F91" w:themeColor="accent1" w:themeTint="FF" w:themeShade="BF"/>
+        </w:rPr>
+        <w:t>Version History</w:t>
+      </w:r>
+      
+      
+    </w:p>
+    <w:p w:rsidRPr="000259F0" w:rsidR="000259F0" w:rsidP="000259F0" w:rsidRDefault="000259F0" w14:paraId="34B72547" w14:textId="77777777">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:cstheme="minorBidi"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:cstheme="minorBidi"/>
+        </w:rPr>
+        <w:t>Please keep the latest version on top</w:t>
+      </w:r>
+    </w:p>
+    <w:tbl>
+      <w:tblPr>
+        <w:tblStyle w:val="TableGrid"/>
+        <w:tblW w:w="8835" w:type="dxa"/>
+        <w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/>
+      </w:tblPr>
+      <w:tblGrid>
+        <w:gridCol w:w="1440"/>
+        <w:gridCol w:w="1440"/>
+        <w:gridCol w:w="1440"/>
+        <w:gridCol w:w="1440"/>
+        <w:gridCol w:w="1440"/>
+        <w:gridCol w:w="1635"/>
+      </w:tblGrid>
+      <w:tr w:rsidRPr="000259F0" w:rsidR="000259F0" w:rsidTr="579D5B40" w14:paraId="3B7173FF" w14:textId="77777777">
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1440" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+              <w:bottom w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            </w:tcBorders>
+            <w:tcMar/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w:rsidRPr="000259F0" w:rsidR="000259F0" w:rsidP="000259F0" w:rsidRDefault="000259F0" w14:paraId="711DD6F4" w14:textId="77777777">
+            <w:pPr>
+              <w:spacing w:after="120" w:line="276" w:lineRule="auto"/>
+              <w:rPr>
+                <w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:cstheme="minorBidi"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:cstheme="minorBidi"/>
+              </w:rPr>
+              <w:t>Version</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1440" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+              <w:bottom w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            </w:tcBorders>
+            <w:tcMar/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w:rsidRPr="000259F0" w:rsidR="000259F0" w:rsidP="000259F0" w:rsidRDefault="000259F0" w14:paraId="20CC3765" w14:textId="77777777">
+            <w:pPr>
+              <w:spacing w:after="120" w:line="276" w:lineRule="auto"/>
+              <w:rPr>
+                <w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:cstheme="minorBidi"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:cstheme="minorBidi"/>
+              </w:rPr>
+              <w:t>Change Description</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1440" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+              <w:bottom w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            </w:tcBorders>
+            <w:tcMar/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w:rsidRPr="000259F0" w:rsidR="000259F0" w:rsidP="000259F0" w:rsidRDefault="000259F0" w14:paraId="5575CEC5" w14:textId="77777777">
+            <w:pPr>
+              <w:spacing w:after="120" w:line="276" w:lineRule="auto"/>
+              <w:rPr>
+                <w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:cstheme="minorBidi"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:cstheme="minorBidi"/>
+              </w:rPr>
+              <w:t>Sections</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1440" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+              <w:bottom w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            </w:tcBorders>
+            <w:tcMar/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w:rsidRPr="000259F0" w:rsidR="000259F0" w:rsidP="000259F0" w:rsidRDefault="000259F0" w14:paraId="238A346F" w14:textId="77777777">
+            <w:pPr>
+              <w:spacing w:after="120" w:line="276" w:lineRule="auto"/>
+              <w:rPr>
+                <w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:cstheme="minorBidi"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:cstheme="minorBidi"/>
+              </w:rPr>
+              <w:t>Date</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1440" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+              <w:bottom w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            </w:tcBorders>
+            <w:tcMar/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w:rsidRPr="000259F0" w:rsidR="000259F0" w:rsidP="000259F0" w:rsidRDefault="000259F0" w14:paraId="080A4A23" w14:textId="77777777">
+            <w:pPr>
+              <w:spacing w:after="120" w:line="276" w:lineRule="auto"/>
+              <w:rPr>
+                <w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:cstheme="minorBidi"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:cstheme="minorBidi"/>
+              </w:rPr>
+              <w:t>Author</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1635" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+              <w:bottom w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            </w:tcBorders>
+            <w:tcMar/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w:rsidRPr="000259F0" w:rsidR="000259F0" w:rsidP="000259F0" w:rsidRDefault="003733B2" w14:paraId="0DCAE2F4" w14:textId="5AEAFD4A">
+            <w:pPr>
+              <w:spacing w:after="120" w:line="276" w:lineRule="auto"/>
+              <w:rPr>
+                <w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:cstheme="minorBidi"/>
+              </w:rPr>
+            </w:pPr>
+            
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:cstheme="minorBidi"/>
+              </w:rPr>
+              <w:t>Iflow Version</w:t>
+            </w:r>
+            
+            
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidRPr="000259F0" w:rsidR="000259F0" w:rsidTr="579D5B40" w14:paraId="312F2528" w14:textId="77777777">
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1440" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+              <w:bottom w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            </w:tcBorders>
+            <w:tcMar/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w:rsidRPr="000259F0" w:rsidR="000259F0" w:rsidP="000259F0" w:rsidRDefault="003733B2" w14:paraId="0A7BD0D0" w14:textId="36767696">
+            <w:pPr>
+              <w:spacing w:after="120" w:line="276" w:lineRule="auto"/>
+              <w:rPr>
+                <w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:cstheme="minorBidi"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:cstheme="minorBidi"/>
+              </w:rPr>
+              <w:t>{{VERSION}}</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1440" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+              <w:bottom w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            </w:tcBorders>
+            <w:tcMar/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w:rsidRPr="000259F0" w:rsidR="000259F0" w:rsidP="000259F0" w:rsidRDefault="000259F0" w14:paraId="4B066080" w14:textId="77777777">
+            <w:pPr>
+              <w:spacing w:after="120" w:line="276" w:lineRule="auto"/>
+              <w:rPr>
+                <w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:cstheme="minorBidi"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:cstheme="minorBidi"/>
+              </w:rPr>
+              <w:t>{{CHANGE_DESC}}</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1440" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+              <w:bottom w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            </w:tcBorders>
+            <w:tcMar/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w:rsidRPr="000259F0" w:rsidR="000259F0" w:rsidP="000259F0" w:rsidRDefault="000259F0" w14:paraId="4EB0FD65" w14:textId="77777777">
+            <w:pPr>
+              <w:spacing w:after="120" w:line="276" w:lineRule="auto"/>
+              <w:rPr>
+                <w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:cstheme="minorBidi"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:cstheme="minorBidi"/>
+              </w:rPr>
+              <w:t>{{SECTIONS}}</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1440" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+              <w:bottom w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            </w:tcBorders>
+            <w:tcMar/>
+          </w:tcPr>
+          <w:p w:rsidRPr="000259F0" w:rsidR="000259F0" w:rsidP="000259F0" w:rsidRDefault="003733B2" w14:paraId="76F5DEEF" w14:textId="77FD7F26">
+            <w:pPr>
+              <w:spacing w:after="120" w:line="276" w:lineRule="auto"/>
+              <w:rPr>
+                <w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:cstheme="minorBidi"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:cstheme="minorBidi"/>
+              </w:rPr>
+              <w:t>{{REV_DATE}}</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1440" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+              <w:bottom w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            </w:tcBorders>
+            <w:tcMar/>
+          </w:tcPr>
+          <w:p w:rsidRPr="000259F0" w:rsidR="000259F0" w:rsidP="000259F0" w:rsidRDefault="003733B2" w14:paraId="51766F75" w14:textId="59F490CE">
+            <w:pPr>
+              <w:spacing w:after="120" w:line="276" w:lineRule="auto"/>
+              <w:rPr>
+                <w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:cstheme="minorBidi"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:cstheme="minorBidi"/>
+              </w:rPr>
+              <w:t>{{AUTHOR}}</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1635" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+              <w:bottom w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            </w:tcBorders>
+            <w:tcMar/>
+          </w:tcPr>
+          <w:p w:rsidRPr="000259F0" w:rsidR="000259F0" w:rsidP="000259F0" w:rsidRDefault="003733B2" w14:paraId="479EC66D" w14:textId="4C40C307">
+            <w:pPr>
+              <w:spacing w:after="120" w:line="276" w:lineRule="auto"/>
+              <w:rPr>
+                <w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:cstheme="minorBidi"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:cstheme="minorBidi"/>
+              </w:rPr>
+              <w:t>{{IFLOW_VERSION}}</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:bookmarkEnd w:id="1"/>
+    </w:tbl>
+    <w:p w:rsidRPr="00F96FCC" w:rsidR="000259F0" w:rsidP="000259F0" w:rsidRDefault="000259F0" w14:paraId="6BD486EE" w14:textId="77777777">
+      <w:pPr>
+        <w:pStyle w:val="Title"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="172A4D"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:sdt>
+      <w:sdtPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:eastAsia="Arial" w:cs="Arial"/>
+          <w:color w:val="auto"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+        <w:id w:val="1172771644"/>
+        <w:docPartObj>
+          <w:docPartGallery w:val="Table of Contents"/>
+          <w:docPartUnique/>
+        </w:docPartObj>
+      </w:sdtPr>
+      <w:sdtEndPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:eastAsia="Arial" w:cs="Arial"/>
+          <w:b w:val="1"/>
+          <w:bCs w:val="1"/>
+          <w:noProof/>
+          <w:color w:val="auto"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+      </w:sdtEndPr>
+      <w:sdtContent>
+        <w:p w:rsidRPr="000259F0" w:rsidR="00102574" w:rsidRDefault="00102574" w14:paraId="5C801C2D" w14:textId="4381EC24">
+          <w:pPr>
+            <w:pStyle w:val="TOCHeading"/>
+            <w:rPr>
+              <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:eastAsia="Arial" w:cs="Arial"/>
+              <w:b/>
+              <w:bCs/>
+              <w:color w:val="auto"/>
+              <w:sz w:val="22"/>
+              <w:szCs w:val="22"/>
+            </w:rPr>
+          </w:pPr>
+          <w:r>
+            <w:t>Contents</w:t>
+          </w:r>
+        </w:p>
+        <w:p w:rsidR="000A0010" w:rsidRDefault="00102574" w14:paraId="2F820D2C" w14:textId="724C5345">
+          <w:pPr>
+            <w:pStyle w:val="TOC1"/>
+            <w:tabs>
+              <w:tab w:val="right" w:leader="dot" w:pos="10019"/>
+            </w:tabs>
+            <w:rPr>
+              <w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:cstheme="minorBidi"/>
+              <w:noProof/>
+              <w:kern w:val="2"/>
+              <w:sz w:val="24"/>
+              <w:szCs w:val="24"/>
+              <w:lang w:val="en-IN" w:eastAsia="en-IN"/>
+              <w14:ligatures w14:val="standardContextual"/>
+            </w:rPr>
+          </w:pPr>
+          <w:r>
+            <w:fldChar w:fldCharType="begin"/>
+          <w:instrText xml:space="preserve"> TOC \o &quot;1-3&quot; \h \z \u </w:instrText><w:fldChar w:fldCharType="separate"/></w:r>
+          
+          
+          <w:hyperlink w:history="1" w:anchor="_Toc219816046">
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="Hyperlink"/>
+                <w:rFonts w:asciiTheme="majorHAnsi" w:hAnsiTheme="majorHAnsi" w:eastAsiaTheme="majorEastAsia" w:cstheme="majorBidi"/>
+                <w:noProof/>
+              </w:rPr>
+              <w:t>Business Context</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:noProof/>
+                <w:webHidden/>
+              </w:rPr>
+              <w:tab/>
+            <w:fldChar w:fldCharType="begin"/><w:instrText xml:space="preserve"> PAGEREF _Toc219816046 \h </w:instrText><w:fldChar w:fldCharType="separate"/><w:t>1</w:t><w:fldChar w:fldCharType="end"/></w:r>
+            
+            
+            
+            
+            
+            
+          </w:hyperlink>
+        </w:p>
+        <w:p w:rsidR="000A0010" w:rsidRDefault="000A0010" w14:paraId="2B400C7B" w14:textId="6B48CA7D">
+          <w:pPr>
+            <w:pStyle w:val="TOC1"/>
+            <w:tabs>
+              <w:tab w:val="right" w:leader="dot" w:pos="10019"/>
+            </w:tabs>
+            <w:rPr>
+              <w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:cstheme="minorBidi"/>
+              <w:noProof/>
+              <w:kern w:val="2"/>
+              <w:sz w:val="24"/>
+              <w:szCs w:val="24"/>
+              <w:lang w:val="en-IN" w:eastAsia="en-IN"/>
+              <w14:ligatures w14:val="standardContextual"/>
+            </w:rPr>
+          </w:pPr>
+          <w:hyperlink w:history="1" w:anchor="_Toc219816047">
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="Hyperlink"/>
+                <w:rFonts w:asciiTheme="majorHAnsi" w:hAnsiTheme="majorHAnsi" w:eastAsiaTheme="majorEastAsia" w:cstheme="majorBidi"/>
+                <w:noProof/>
+              </w:rPr>
+              <w:t>Stakeholders</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:noProof/>
+                <w:webHidden/>
+              </w:rPr>
+              <w:tab/>
+            <w:fldChar w:fldCharType="begin"/><w:instrText xml:space="preserve"> PAGEREF _Toc219816047 \h </w:instrText><w:fldChar w:fldCharType="separate"/><w:t>1</w:t><w:fldChar w:fldCharType="end"/></w:r>
+            
+            
+            
+            
+            
+            
+          </w:hyperlink>
+        </w:p>
+        <w:p w:rsidR="000A0010" w:rsidRDefault="000A0010" w14:paraId="532B86B3" w14:textId="55E1D964">
+          <w:pPr>
+            <w:pStyle w:val="TOC1"/>
+            <w:tabs>
+              <w:tab w:val="right" w:leader="dot" w:pos="10019"/>
+            </w:tabs>
+            <w:rPr>
+              <w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:cstheme="minorBidi"/>
+              <w:noProof/>
+              <w:kern w:val="2"/>
+              <w:sz w:val="24"/>
+              <w:szCs w:val="24"/>
+              <w:lang w:val="en-IN" w:eastAsia="en-IN"/>
+              <w14:ligatures w14:val="standardContextual"/>
+            </w:rPr>
+          </w:pPr>
+          <w:hyperlink w:history="1" w:anchor="_Toc219816048">
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="Hyperlink"/>
+                <w:rFonts w:asciiTheme="majorHAnsi" w:hAnsiTheme="majorHAnsi" w:eastAsiaTheme="majorEastAsia" w:cstheme="majorBidi"/>
+                <w:noProof/>
+              </w:rPr>
+              <w:t>GO-Live:</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:noProof/>
+                <w:webHidden/>
+              </w:rPr>
+              <w:tab/>
+            <w:fldChar w:fldCharType="begin"/><w:instrText xml:space="preserve"> PAGEREF _Toc219816048 \h </w:instrText><w:fldChar w:fldCharType="separate"/><w:t>1</w:t><w:fldChar w:fldCharType="end"/></w:r>
+            
+            
+            
+            
+            
+            
+          </w:hyperlink>
+        </w:p>
+        <w:p w:rsidR="000A0010" w:rsidRDefault="000A0010" w14:paraId="47DB6DD3" w14:textId="2A902A5F">
+          <w:pPr>
+            <w:pStyle w:val="TOC1"/>
+            <w:tabs>
+              <w:tab w:val="right" w:leader="dot" w:pos="10019"/>
+            </w:tabs>
+            <w:rPr>
+              <w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:cstheme="minorBidi"/>
+              <w:noProof/>
+              <w:kern w:val="2"/>
+              <w:sz w:val="24"/>
+              <w:szCs w:val="24"/>
+              <w:lang w:val="en-IN" w:eastAsia="en-IN"/>
+              <w14:ligatures w14:val="standardContextual"/>
+            </w:rPr>
+          </w:pPr>
+          <w:hyperlink w:history="1" w:anchor="_Toc219816049">
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="Hyperlink"/>
+                <w:rFonts w:asciiTheme="majorHAnsi" w:hAnsiTheme="majorHAnsi" w:eastAsiaTheme="majorEastAsia" w:cstheme="majorBidi"/>
+                <w:noProof/>
+              </w:rPr>
+              <w:t>Solution Design</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:noProof/>
+                <w:webHidden/>
+              </w:rPr>
+              <w:tab/>
+            <w:fldChar w:fldCharType="begin"/><w:instrText xml:space="preserve"> PAGEREF _Toc219816049 \h </w:instrText><w:fldChar w:fldCharType="separate"/><w:t>1</w:t><w:fldChar w:fldCharType="end"/></w:r>
+            
+            
+            
+            
+            
+            
+          </w:hyperlink>
+        </w:p>
+        <w:p w:rsidR="000A0010" w:rsidRDefault="000A0010" w14:paraId="4811079A" w14:textId="245220F4">
+          <w:pPr>
+            <w:pStyle w:val="TOC1"/>
+            <w:tabs>
+              <w:tab w:val="right" w:leader="dot" w:pos="10019"/>
+            </w:tabs>
+            <w:rPr>
+              <w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:cstheme="minorBidi"/>
+              <w:noProof/>
+              <w:kern w:val="2"/>
+              <w:sz w:val="24"/>
+              <w:szCs w:val="24"/>
+              <w:lang w:val="en-IN" w:eastAsia="en-IN"/>
+              <w14:ligatures w14:val="standardContextual"/>
+            </w:rPr>
+          </w:pPr>
+          <w:hyperlink w:history="1" w:anchor="_Toc219816050">
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="Hyperlink"/>
+                <w:noProof/>
+              </w:rPr>
+              <w:t>Implementation &amp; Configuration</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:noProof/>
+                <w:webHidden/>
+              </w:rPr>
+              <w:tab/>
+            <w:fldChar w:fldCharType="begin"/><w:instrText xml:space="preserve"> PAGEREF _Toc219816050 \h </w:instrText><w:fldChar w:fldCharType="separate"/><w:t>3</w:t><w:fldChar w:fldCharType="end"/></w:r>
+            
+            
+            
+            
+            
+            
+          </w:hyperlink>
+        </w:p>
+        <w:p w:rsidR="00102574" w:rsidRDefault="00102574" w14:paraId="39C5D2E0" w14:textId="505D7184">
+          <w:r>
+            <w:rPr>
+              <w:b/>
+              <w:bCs/>
+              <w:noProof/>
+            </w:rPr>
+            <w:fldChar w:fldCharType="end"/>
+          </w:r>
+        </w:p>
+      </w:sdtContent>
+    </w:sdt>
+    <w:p w:rsidRPr="00C52954" w:rsidR="00F94EF1" w:rsidP="00CE25CC" w:rsidRDefault="00000000" w14:paraId="11CA3A4E" w14:textId="36EEDDD2">
+      <w:pPr>
+        <w:pStyle w:val="Heading1"/>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="majorHAnsi" w:hAnsiTheme="majorHAnsi" w:eastAsiaTheme="majorEastAsia" w:cstheme="majorBidi"/>
+          <w:color w:val="4F81BD" w:themeColor="accent1"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:bookmarkStart w:name="_Toc219816046" w:id="2"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="majorHAnsi" w:hAnsiTheme="majorHAnsi" w:eastAsiaTheme="majorEastAsia" w:cstheme="majorBidi"/>
+          <w:color w:val="4F81BD" w:themeColor="accent1"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Business Context</w:t>
+      </w:r>
+      <w:bookmarkEnd w:id="2"/>
+    </w:p>
+    <w:p w:rsidR="00F94EF1" w:rsidRDefault="00000000" w14:paraId="162B6E79" w14:textId="76457C4F">
+      <w:pPr>
+        <w:pStyle w:val="BodyText"/>
+        <w:spacing w:before="199"/>
+        <w:ind w:left="67"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+        </w:rPr>
+        <w:t>This</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:spacing w:val="-2"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+        </w:rPr>
+        <w:t>Interface</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:spacing w:val="-1"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+        </w:rPr>
+        <w:t>is</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:spacing w:val="-1"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+        </w:rPr>
+        <w:t>used</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:spacing w:val="-1"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+        </w:rPr>
+        <w:t>to</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:spacing w:val="-1"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+        </w:rPr>
+        <w:t>replicate</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:spacing w:val="-1"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+        </w:rPr>
+        <w:t>{{BUSINESS_CONTEXT}}</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:spacing w:val="-1"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+        </w:rPr>
+        <w:t>via</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:spacing w:val="-1"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+        </w:rPr>
+        <w:t>Cloud</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:spacing w:val="-1"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:spacing w:val="-2"/>
+        </w:rPr>
+        <w:t>integration (CI).</w:t>
+      </w:r>
+      
+    </w:p>
+    <w:p w:rsidR="00F94EF1" w:rsidRDefault="00F94EF1" w14:paraId="1B39CAE9" w14:textId="77777777">
+      <w:pPr>
+        <w:pStyle w:val="BodyText"/>
+      </w:pPr>
+    </w:p>
+    <w:p w:rsidR="00F94EF1" w:rsidRDefault="00F94EF1" w14:paraId="132A13E8" w14:textId="77777777">
+      <w:pPr>
+        <w:pStyle w:val="BodyText"/>
+        <w:spacing w:before="91"/>
+      </w:pPr>
+    </w:p>
+    <w:p w:rsidRPr="00C52954" w:rsidR="00F94EF1" w:rsidP="00C52954" w:rsidRDefault="00000000" w14:paraId="504A54CA" w14:textId="77777777">
+      <w:pPr>
+        <w:pStyle w:val="Heading1"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="majorHAnsi" w:hAnsiTheme="majorHAnsi" w:eastAsiaTheme="majorEastAsia" w:cstheme="majorBidi"/>
+          <w:color w:val="4F81BD" w:themeColor="accent1"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:bookmarkStart w:name="_Toc219816047" w:id="3"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="majorHAnsi" w:hAnsiTheme="majorHAnsi" w:eastAsiaTheme="majorEastAsia" w:cstheme="majorBidi"/>
+          <w:color w:val="4F81BD" w:themeColor="accent1"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Stakeholders</w:t>
+      </w:r>
+      <w:bookmarkEnd w:id="3"/>
+    </w:p>
+    <w:p w:rsidR="00F94EF1" w:rsidRDefault="00F94EF1" w14:paraId="4EA3BB59" w14:textId="77777777">
+      <w:pPr>
+        <w:pStyle w:val="BodyText"/>
+        <w:rPr>
+          <w:b/>
+          <w:sz w:val="17"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:tbl>
+      <w:tblPr>
+        <w:tblW w:w="0" w:type="auto"/>
+        <w:tblInd w:w="279" w:type="dxa"/>
+        <w:tblBorders>
+          <w:top w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+          <w:left w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+          <w:bottom w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+          <w:right w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+          <w:insideH w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+          <w:insideV w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+        </w:tblBorders>
+        <w:tblLayout w:type="fixed"/>
+        <w:tblCellMar>
+          <w:left w:w="0" w:type="dxa"/>
+          <w:right w:w="0" w:type="dxa"/>
+        </w:tblCellMar>
+        <w:tblLook w:val="01E0" w:firstRow="1" w:lastRow="1" w:firstColumn="1" w:lastColumn="1" w:noHBand="0" w:noVBand="0"/>
+      </w:tblPr>
+      <w:tblGrid>
+        <w:gridCol w:w="2126"/>
+        <w:gridCol w:w="2552"/>
+        <w:gridCol w:w="3978"/>
+      </w:tblGrid>
+      <w:tr w:rsidR="00F94EF1" w:rsidTr="579D5B40" w14:paraId="5C8A43FE" w14:textId="77777777">
+        <w:trPr>
+          <w:trHeight w:val="458"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2126" w:type="dxa"/>
+            <w:shd w:val="clear" w:color="auto" w:fill="F1F1F4"/>
+            <w:tcMar/>
+          </w:tcPr>
+          <w:p w:rsidR="00F94EF1" w:rsidRDefault="004C15A0" w14:paraId="7A5729BC" w14:textId="58E69B2B">
+            <w:pPr>
+              <w:pStyle w:val="TableParagraph"/>
+              <w:spacing w:before="125"/>
+              <w:ind w:left="89"/>
+              <w:rPr>
+                <w:b/>
+                <w:sz w:val="16"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:color w:val="172A4D"/>
+                <w:spacing w:val="-4"/>
+                <w:sz w:val="16"/>
+              </w:rPr>
+              <w:t>Role</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2552" w:type="dxa"/>
+            <w:shd w:val="clear" w:color="auto" w:fill="F1F1F4"/>
+            <w:tcMar/>
+          </w:tcPr>
+          <w:p w:rsidR="00F94EF1" w:rsidRDefault="004C15A0" w14:paraId="7CE8FA6B" w14:textId="243B12B0">
+            <w:pPr>
+              <w:pStyle w:val="TableParagraph"/>
+              <w:spacing w:before="125"/>
+              <w:ind w:left="89"/>
+              <w:rPr>
+                <w:b/>
+                <w:sz w:val="16"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:color w:val="172A4D"/>
+                <w:spacing w:val="-4"/>
+                <w:sz w:val="16"/>
+              </w:rPr>
+              <w:t>System</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="3978" w:type="dxa"/>
+            <w:shd w:val="clear" w:color="auto" w:fill="F1F1F4"/>
+            <w:tcMar/>
+          </w:tcPr>
+          <w:p w:rsidR="00F94EF1" w:rsidRDefault="00000000" w14:paraId="10DBD515" w14:textId="77777777">
+            <w:pPr>
+              <w:pStyle w:val="TableParagraph"/>
+              <w:spacing w:before="125"/>
+              <w:ind w:left="89"/>
+              <w:rPr>
+                <w:b/>
+                <w:sz w:val="16"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:color w:val="172A4D"/>
+                <w:spacing w:val="-2"/>
+                <w:sz w:val="16"/>
+              </w:rPr>
+              <w:t>Contact</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="00F94EF1" w:rsidTr="579D5B40" w14:paraId="4D95E4EC" w14:textId="77777777">
+        <w:trPr>
+          <w:trHeight w:val="814"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2126" w:type="dxa"/>
+            <w:tcMar/>
+          </w:tcPr>
+          <w:p w:rsidR="002A7E3B" w:rsidRDefault="002A7E3B" w14:paraId="4A72E2E6" w14:textId="77777777">
+            <w:pPr>
+              <w:pStyle w:val="TableParagraph"/>
+              <w:spacing w:before="0"/>
+              <w:rPr>
+                <w:color w:val="172A4D"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+          <w:p w:rsidR="004C15A0" w:rsidP="004C15A0" w:rsidRDefault="004C15A0" w14:paraId="186EA05A" w14:textId="77777777">
+            <w:pPr>
+              <w:pStyle w:val="TableParagraph"/>
+              <w:spacing w:before="104"/>
+              <w:rPr>
+                <w:color w:val="172A4D"/>
+                <w:spacing w:val="-4"/>
+                <w:sz w:val="16"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:color w:val="172A4D"/>
+                <w:spacing w:val="-2"/>
+                <w:sz w:val="16"/>
+              </w:rPr>
+              <w:t>Functional</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:color w:val="172A4D"/>
+                <w:spacing w:val="1"/>
+                <w:sz w:val="16"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:color w:val="172A4D"/>
+                <w:spacing w:val="-4"/>
+                <w:sz w:val="16"/>
+              </w:rPr>
+              <w:t>Lead</w:t>
+            </w:r>
+          </w:p>
+          <w:p w:rsidR="002A7E3B" w:rsidRDefault="002A7E3B" w14:paraId="63FB37E3" w14:textId="77777777">
+            <w:pPr>
+              <w:pStyle w:val="TableParagraph"/>
+              <w:spacing w:before="0"/>
+              <w:rPr>
+                <w:color w:val="172A4D"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+          <w:p w:rsidR="002A7E3B" w:rsidRDefault="002A7E3B" w14:paraId="7DDFD0E4" w14:textId="09FAAF11">
+            <w:pPr>
+              <w:pStyle w:val="TableParagraph"/>
+              <w:spacing w:before="0"/>
+              <w:rPr>
+                <w:sz w:val="16"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2552" w:type="dxa"/>
+            <w:tcMar/>
+          </w:tcPr>
+          <w:p w:rsidR="00385FD1" w:rsidP="004C15A0" w:rsidRDefault="00385FD1" w14:paraId="49DE8674" w14:textId="77777777">
+            <w:pPr>
+              <w:pStyle w:val="TableParagraph"/>
+              <w:spacing w:before="0"/>
+              <w:rPr>
+                <w:color w:val="172A4D"/>
+                <w:spacing w:val="-2"/>
+                <w:sz w:val="16"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+          <w:p w:rsidRPr="004C15A0" w:rsidR="004C15A0" w:rsidP="004C15A0" w:rsidRDefault="004C15A0" w14:paraId="570F7C38" w14:textId="1C36A9CD">
+            <w:pPr>
+              <w:pStyle w:val="TableParagraph"/>
+              <w:spacing w:before="0"/>
+              <w:rPr>
+                <w:color w:val="172A4D"/>
+                <w:spacing w:val="-2"/>
+                <w:sz w:val="16"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:color w:val="172A4D"/>
+                <w:spacing w:val="-2"/>
+                <w:sz w:val="16"/>
+              </w:rPr>
+              <w:t>SAP Datasphere</w:t>
+            </w:r>
+            
+          </w:p>
+          <w:p w:rsidR="005A1273" w:rsidRDefault="005A1273" w14:paraId="7C8DBEB9" w14:textId="77777777">
+            <w:pPr>
+              <w:pStyle w:val="TableParagraph"/>
+              <w:spacing w:before="104"/>
+              <w:rPr>
+                <w:color w:val="172A4D"/>
+                <w:spacing w:val="-4"/>
+                <w:sz w:val="16"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+          <w:p w:rsidR="005A1273" w:rsidP="005A1273" w:rsidRDefault="005A1273" w14:paraId="0E5DA874" w14:textId="711ADD24">
+            <w:pPr>
+              <w:pStyle w:val="TableParagraph"/>
+              <w:spacing w:before="104"/>
+              <w:ind w:left="0"/>
+              <w:rPr>
+                <w:sz w:val="16"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:color w:val="172A4D"/>
+                <w:spacing w:val="-4"/>
+                <w:sz w:val="16"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:color w:val="172A4D"/>
+                <w:spacing w:val="-2"/>
+                <w:sz w:val="16"/>
+              </w:rPr>
+              <w:t>SAP SCV2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="3978" w:type="dxa"/>
+            <w:tcMar/>
+          </w:tcPr>
+          <w:p w:rsidRPr="007C6CB9" w:rsidR="007C6CB9" w:rsidP="007C6CB9" w:rsidRDefault="007C6CB9" w14:paraId="0B7F7B96" w14:textId="77777777">
+            <w:pPr>
+              <w:pStyle w:val="TableParagraph"/>
+              <w:spacing w:before="104"/>
+              <w:ind w:left="78"/>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="172A4D"/>
+                <w:sz w:val="16"/>
+                <w:lang w:val="en-IN"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="172A4D"/>
+                <w:sz w:val="16"/>
+                <w:lang w:val="en-IN"/>
+              </w:rPr>
+              <w:t>Rejin Narayan K R</w:t>
+            </w:r>
+          </w:p>
+          <w:p w:rsidRPr="007C6CB9" w:rsidR="007C6CB9" w:rsidP="007C6CB9" w:rsidRDefault="007C6CB9" w14:paraId="2DE67BE4" w14:textId="79F6FF42">
+            <w:pPr>
+              <w:pStyle w:val="TableParagraph"/>
+              <w:spacing w:before="104"/>
+              <w:ind w:left="78"/>
+              <w:rPr>
+                <w:rStyle w:val="Hyperlink"/>
+                <w:sz w:val="16"/>
+              </w:rPr>
+            </w:pPr>
+            <w:hyperlink w:history="1" r:id="rId8">
+              <w:r>
+                <w:rPr>
+                  <w:rStyle w:val="Hyperlink"/>
+                  <w:sz w:val="16"/>
+                </w:rPr>
+                <w:t>rejin.kr@motiveminds.com</w:t>
+              </w:r>
+            </w:hyperlink>
+          </w:p>
+          <w:p w:rsidRPr="00385FD1" w:rsidR="00385FD1" w:rsidP="007C6CB9" w:rsidRDefault="00385FD1" w14:paraId="7634DA31" w14:textId="5A73F763">
+            <w:pPr>
+              <w:pStyle w:val="TableParagraph"/>
+              <w:spacing w:before="104"/>
+              <w:ind w:left="78"/>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:sz w:val="16"/>
+                <w:lang w:val="en-IN"/>
+              </w:rPr>
+            </w:pPr>
+            
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:sz w:val="16"/>
+                <w:lang w:val="en-IN"/>
+              </w:rPr>
+              <w:t>Sharddha Singhal</w:t>
+            </w:r>
+            
+            
+          </w:p>
+          <w:p w:rsidR="005A1273" w:rsidRDefault="00385FD1" w14:paraId="57CD272C" w14:textId="5C9F194E">
+            <w:pPr>
+              <w:pStyle w:val="TableParagraph"/>
+              <w:spacing w:before="0"/>
+              <w:ind w:left="78"/>
+              <w:rPr>
+                <w:sz w:val="16"/>
+              </w:rPr>
+            </w:pPr>
+            <w:hyperlink w:history="1" r:id="rId9">
+              <w:r>
+                <w:rPr>
+                  <w:rStyle w:val="Hyperlink"/>
+                  <w:sz w:val="16"/>
+                </w:rPr>
+                <w:t>sharddha.singhal@motiveminds.com</w:t>
+              </w:r>
+            </w:hyperlink>
+          </w:p>
+          <w:p w:rsidR="00385FD1" w:rsidRDefault="00385FD1" w14:paraId="1C10DA5D" w14:textId="7DBE4E46">
+            <w:pPr>
+              <w:pStyle w:val="TableParagraph"/>
+              <w:spacing w:before="0"/>
+              <w:ind w:left="78"/>
+              <w:rPr>
+                <w:sz w:val="16"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="00F94EF1" w:rsidTr="579D5B40" w14:paraId="3CD0BEDE" w14:textId="77777777">
+        <w:trPr>
+          <w:trHeight w:val="824"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2126" w:type="dxa"/>
+            <w:tcMar/>
+          </w:tcPr>
+          <w:p w:rsidR="00F94EF1" w:rsidRDefault="00000000" w14:paraId="547A2DC0" w14:textId="77777777">
+            <w:pPr>
+              <w:pStyle w:val="TableParagraph"/>
+              <w:rPr>
+                <w:sz w:val="16"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:color w:val="172A4D"/>
+                <w:sz w:val="16"/>
+              </w:rPr>
+              <w:t>SAP</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:color w:val="172A4D"/>
+                <w:spacing w:val="-11"/>
+                <w:sz w:val="16"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:color w:val="172A4D"/>
+                <w:spacing w:val="-5"/>
+                <w:sz w:val="16"/>
+              </w:rPr>
+              <w:t>CPI</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2552" w:type="dxa"/>
+            <w:tcMar/>
+          </w:tcPr>
+          <w:p w:rsidR="00F94EF1" w:rsidRDefault="00000000" w14:paraId="6E3A0699" w14:textId="77777777">
+            <w:pPr>
+              <w:pStyle w:val="TableParagraph"/>
+              <w:rPr>
+                <w:sz w:val="16"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:color w:val="172A4D"/>
+                <w:spacing w:val="-2"/>
+                <w:sz w:val="16"/>
+              </w:rPr>
+              <w:t>Integration</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:color w:val="172A4D"/>
+                <w:spacing w:val="2"/>
+                <w:sz w:val="16"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:color w:val="172A4D"/>
+                <w:spacing w:val="-4"/>
+                <w:sz w:val="16"/>
+              </w:rPr>
+              <w:t>Lead</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="3978" w:type="dxa"/>
+            <w:tcMar/>
+          </w:tcPr>
+          <w:p w:rsidR="50BBC4F6" w:rsidP="579D5B40" w:rsidRDefault="50BBC4F6" w14:paraId="5EC66832" w14:textId="285B99B6">
+            <w:pPr>
+              <w:pStyle w:val="TableParagraph"/>
+              <w:spacing w:before="114"/>
+              <w:ind w:left="78"/>
+              <w:rPr>
+                <w:noProof w:val="0"/>
+                <w:lang w:val="en-US"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:eastAsia="Arial" w:cs="Arial"/>
+                <w:b w:val="1"/>
+                <w:bCs w:val="1"/>
+                <w:i w:val="0"/>
+                <w:iCs w:val="0"/>
+                <w:caps w:val="0"/>
+                <w:smallCaps w:val="0"/>
+                <w:noProof w:val="0"/>
+                <w:sz w:val="16"/>
+                <w:szCs w:val="16"/>
+                <w:lang w:val="en-US"/>
+              </w:rPr>
+              <w:t>Surekha Genji</w:t>
+            </w:r>
+            <w:r>
+              <w:br/>
+            </w:r>
+            <w:hyperlink r:id="R89c9464c93774a3a">
+              <w:r>
+                <w:rPr>
+                  <w:rStyle w:val="Hyperlink"/>
+                  <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:eastAsia="Arial" w:cs="Arial"/>
+                  <w:b w:val="0"/>
+                  <w:bCs w:val="0"/>
+                  <w:i w:val="0"/>
+                  <w:iCs w:val="0"/>
+                  <w:caps w:val="0"/>
+                  <w:smallCaps w:val="0"/>
+                  <w:strike w:val="0"/>
+                  <w:dstrike w:val="0"/>
+                  <w:noProof w:val="0"/>
+                  <w:color w:val="0000FF"/>
+                  <w:sz w:val="16"/>
+                  <w:szCs w:val="16"/>
+                  <w:u w:val="single"/>
+                  <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t>surekha.genji@motiveminds.com</w:t>
+              </w:r>
+              <w:r>
+                <w:br/>
+              </w:r>
+            </w:hyperlink>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:eastAsia="Arial" w:cs="Arial"/>
+                <w:b w:val="1"/>
+                <w:bCs w:val="1"/>
+                <w:i w:val="0"/>
+                <w:iCs w:val="0"/>
+                <w:caps w:val="0"/>
+                <w:smallCaps w:val="0"/>
+                <w:noProof w:val="0"/>
+                <w:sz w:val="16"/>
+                <w:szCs w:val="16"/>
+                <w:lang w:val="en-US"/>
+              </w:rPr>
+              <w:t xml:space="preserve">Krishnaraj k </w:t>
+            </w:r>
+            <w:r>
+              <w:br/>
+            </w:r>
+            <w:hyperlink r:id="R72459949f0f247a5">
+              <w:r>
+                <w:rPr>
+                  <w:rStyle w:val="Hyperlink"/>
+                  <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:eastAsia="Arial" w:cs="Arial"/>
+                  <w:b w:val="0"/>
+                  <w:bCs w:val="0"/>
+                  <w:i w:val="0"/>
+                  <w:iCs w:val="0"/>
+                  <w:caps w:val="0"/>
+                  <w:smallCaps w:val="0"/>
+                  <w:strike w:val="0"/>
+                  <w:dstrike w:val="0"/>
+                  <w:noProof w:val="0"/>
+                  <w:color w:val="0000FF"/>
+                  <w:sz w:val="16"/>
+                  <w:szCs w:val="16"/>
+                  <w:u w:val="single"/>
+                  <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t>krishnaraj.k@motiveminds.com</w:t>
+              </w:r>
+            </w:hyperlink>
+          </w:p>
+          <w:p w:rsidR="00F84D9A" w:rsidRDefault="00F84D9A" w14:paraId="28BB8457" w14:textId="77777777">
+            <w:pPr>
+              <w:pStyle w:val="TableParagraph"/>
+              <w:spacing w:before="0"/>
+              <w:ind w:left="78"/>
+              <w:rPr>
+                <w:sz w:val="16"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+    </w:tbl>
+    <w:p w:rsidR="00CE25CC" w:rsidP="00CE25CC" w:rsidRDefault="00CE25CC" w14:paraId="754A8A4F" w14:textId="77777777">
+      <w:pPr>
+        <w:pStyle w:val="Heading1"/>
+      </w:pPr>
+    </w:p>
+    <w:p w:rsidRPr="00C52954" w:rsidR="00F94EF1" w:rsidP="00CE25CC" w:rsidRDefault="00CE25CC" w14:paraId="2F372C82" w14:textId="32D3755F">
+      <w:pPr>
+        <w:pStyle w:val="Heading1"/>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="majorHAnsi" w:hAnsiTheme="majorHAnsi" w:eastAsiaTheme="majorEastAsia" w:cstheme="majorBidi"/>
+          <w:color w:val="4F81BD" w:themeColor="accent1"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:bookmarkStart w:name="_Toc219816048" w:id="4"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="majorHAnsi" w:hAnsiTheme="majorHAnsi" w:eastAsiaTheme="majorEastAsia" w:cstheme="majorBidi"/>
+          <w:color w:val="4F81BD" w:themeColor="accent1"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>GO-Live:</w:t>
+      </w:r>
+      <w:bookmarkEnd w:id="4"/>
+    </w:p>
+    <w:p w:rsidRPr="00CE25CC" w:rsidR="00CE25CC" w:rsidRDefault="00CE25CC" w14:paraId="3C605876" w14:textId="6C0CB2F7">
+      <w:pPr>
+        <w:pStyle w:val="BodyText"/>
+        <w:spacing w:before="197"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="172A4D"/>
+        </w:rPr>
+        <w:t xml:space="preserve">{{GO_LIVE}}</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="00CE25CC" w:rsidRDefault="00CE25CC" w14:paraId="7F650941" w14:textId="3D0328E9">
+      <w:pPr>
+        <w:pStyle w:val="BodyText"/>
+        <w:spacing w:before="197"/>
+        <w:rPr>
+          <w:b/>
+          <w:sz w:val="18"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w:rsidRPr="00C52954" w:rsidR="00F94EF1" w:rsidP="00CE25CC" w:rsidRDefault="00000000" w14:paraId="72B3333E" w14:textId="1083D5A7">
+      <w:pPr>
+        <w:pStyle w:val="Heading1"/>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="majorHAnsi" w:hAnsiTheme="majorHAnsi" w:eastAsiaTheme="majorEastAsia" w:cstheme="majorBidi"/>
+          <w:color w:val="4F81BD" w:themeColor="accent1"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:bookmarkStart w:name="_Toc219816049" w:id="5"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="majorHAnsi" w:hAnsiTheme="majorHAnsi" w:eastAsiaTheme="majorEastAsia" w:cstheme="majorBidi"/>
+          <w:color w:val="4F81BD" w:themeColor="accent1"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Solution Design</w:t>
+      </w:r>
+      <w:bookmarkEnd w:id="5"/>
+    </w:p>
+    <w:p w:rsidRPr="00C52954" w:rsidR="00F94EF1" w:rsidRDefault="00F94EF1" w14:paraId="5FC1BE51" w14:textId="3EF3F02F">
+      <w:pPr>
+        <w:pStyle w:val="BodyText"/>
+        <w:spacing w:before="1"/>
+        <w:rPr>
+          <w:b/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w:rsidRPr="00AD5A34" w:rsidR="00F94EF1" w:rsidRDefault="00000000" w14:paraId="26AF1FBD" w14:textId="30CB27A9">
+      <w:pPr>
+        <w:pStyle w:val="BodyText"/>
+        <w:spacing w:before="1"/>
+        <w:ind w:left="67"/>
+        <w:rPr>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:t>Below</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:spacing w:val="-2"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t>is</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:spacing w:val="-1"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t>the</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:spacing w:val="-1"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t>flow</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:spacing w:val="-1"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t>for</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:spacing w:val="-2"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t>this</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:spacing w:val="-1"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t>specific</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:spacing w:val="-1"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:spacing w:val="-2"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t>Integration.</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Cambria" w:hAnsi="Cambria" w:eastAsia="" w:cs="" w:asciiTheme="majorAscii" w:hAnsiTheme="majorAscii" w:eastAsiaTheme="majorEastAsia" w:cstheme="majorBidi"/>
+          <w:noProof/>
+          <w:color w:val="4F81BD" w:themeColor="accent1"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="00AD5A34" w:rsidP="579D5B40" w:rsidRDefault="00AC5403" w14:paraId="43BE5528" w14:textId="197173B1">
+      <w:pPr>
+        <w:pStyle w:val="BodyText"/>
+        <w:spacing w:before="1" w:line="525" w:lineRule="auto"/>
+        <w:ind w:left="67"/>
+        <w:rPr>
+          <w:b w:val="1"/>
+          <w:bCs w:val="1"/>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:drawing>
+          <wp:inline wp14:editId="515A78DD" wp14:anchorId="1107F874">
+            <wp:extent cx="4020871" cy="1038225"/>
+            <wp:effectExtent l="0" t="0" r="0" b="0"/>
+            <wp:docPr id="1815854242" name="drawing"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic>
+              <a:graphicData xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="1815854242" name="Picture 1815854242"/>
+                    <pic:cNvPicPr/>
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" r:embed="rId424513560">
+                      <a:extLst>
+                        <a:ext uri="{28A0092B-C50C-407E-A947-70E740481C1C}">
+                          <a14:useLocalDpi xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main"/>
+                        </a:ext>
+                      </a:extLst>
+                    </a:blip>
+                    <a:stretch>
+                      <a:fillRect/>
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm rot="0">
+                      <a:off x="0" y="0"/>
+                      <a:ext cx="4020871" cy="1038225"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst/>
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:p w:rsidRPr="00C52954" w:rsidR="00423350" w:rsidP="579D5B40" w:rsidRDefault="00AC5403" w14:paraId="5D68685C" w14:textId="573F01BD">
+      <w:pPr>
+        <w:spacing w:line="525" w:lineRule="auto"/>
+        <w:ind w:left="67" w:right="4499"/>
+        <w:rPr>
+          <w:b w:val="1"/>
+          <w:bCs w:val="1"/>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b w:val="1"/>
+          <w:bCs w:val="1"/>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="00AD5A34" w:rsidP="579D5B40" w:rsidRDefault="007E28CF" w14:paraId="76D5AC09" w14:textId="7418EC38">
+      <w:pPr>
+        <w:spacing w:line="525" w:lineRule="auto"/>
+        <w:ind w:left="67" w:right="4499"/>
+        <w:rPr>
+          <w:b w:val="1"/>
+          <w:bCs w:val="1"/>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="majorHAnsi" w:hAnsiTheme="majorHAnsi" w:eastAsiaTheme="majorEastAsia" w:cstheme="majorBidi"/>
+          <w:noProof/>
+          <w:color w:val="4F81BD" w:themeColor="accent1"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <mc:AlternateContent>
+          <mc:Choice Requires="wps">
+            <w:drawing>
+              <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251668480" behindDoc="1" locked="0" layoutInCell="1" allowOverlap="1" wp14:anchorId="5357B9DE" wp14:editId="4F60E15F">
+                <wp:simplePos x="0" y="0"/>
+                <wp:positionH relativeFrom="margin">
+                  <wp:posOffset>1212850</wp:posOffset>
+                </wp:positionH>
+                <wp:positionV relativeFrom="paragraph">
+                  <wp:posOffset>234950</wp:posOffset>
+                </wp:positionV>
+                <wp:extent cx="1027430" cy="286385"/>
+                <wp:effectExtent l="0" t="0" r="20320" b="18415"/>
+                <wp:wrapNone/>
+                <wp:docPr id="1167325053" name="Rectangle 3"/>
+                <wp:cNvGraphicFramePr/>
+                <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                  <a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                    <wps:wsp>
+                      <wps:cNvSpPr/>
+                      <wps:spPr>
+                        <a:xfrm>
+                          <a:off x="0" y="0"/>
+                          <a:ext cx="1027430" cy="286385"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="rect">
+                          <a:avLst/>
+                        </a:prstGeom>
+                        <a:solidFill>
+                          <a:sysClr val="window" lastClr="FFFFFF"/>
+                        </a:solidFill>
+                        <a:ln w="25400" cap="flat" cmpd="sng" algn="ctr">
+                          <a:solidFill>
+                            <a:srgbClr val="F79646"/>
+                          </a:solidFill>
+                          <a:prstDash val="solid"/>
+                        </a:ln>
+                        <a:effectLst/>
+                      </wps:spPr>
+                      <wps:txbx>
+                        <w:txbxContent>
+                          <w:p w:rsidR="00AC5403" w:rsidP="00AC5403" w:rsidRDefault="00AC5403" w14:paraId="50782AC1" w14:textId="77777777">
+                            <w:pPr>
+                              <w:jc w:val="center"/>
+                            </w:pPr>
+                            <w:r>
+                              <w:rPr>
+                                <w:b/>
+                                <w:color w:val="172A4D"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                              </w:rPr>
+                              <w:t xml:space="preserve">SAP SCV2                 </w:t>
+                            </w:r>
+                            
+                          </w:p>
+                        </w:txbxContent>
+                      </wps:txbx>
+                      <wps:bodyPr rot="0" spcFirstLastPara="0" vertOverflow="overflow" horzOverflow="overflow" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" numCol="1" spcCol="0" rtlCol="0" fromWordArt="0" anchor="ctr" anchorCtr="0" forceAA="0" compatLnSpc="1">
+                        <a:prstTxWarp prst="textNoShape">
+                          <a:avLst/>
+                        </a:prstTxWarp>
+                        <a:noAutofit/>
+                      </wps:bodyPr>
+                    </wps:wsp>
+                  </a:graphicData>
+                </a:graphic>
+              </wp:anchor>
+            </w:drawing>
+          </mc:Choice>
+          <mc:Fallback>
+            <w:pict>
+              <v:rect id="_x0000_s1033" style="position:absolute;left:0;text-align:left;margin-left:95.5pt;margin-top:18.5pt;width:80.9pt;height:22.55pt;z-index:-251648000;visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:margin;mso-position-vertical:absolute;mso-position-vertical-relative:text;v-text-anchor:middle" fillcolor="window" strokecolor="#f79646" strokeweight="2pt" w14:anchorId="5357B9DE" o:gfxdata="UEsDBBQABgAIAAAAIQC2gziS/gAAAOEBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF 90jcwfIWJU67QAgl6YK0S0CoHGBkTxKLZGx5TGhvj5O2G0SRWNoz/78nu9wcxkFMGNg6quQqL6RA 0s5Y6ir5vt9lD1JwBDIwOMJKHpHlpr69KfdHjyxSmriSfYz+USnWPY7AufNIadK6MEJMx9ApD/oD OlTrorhX2lFEilmcO2RdNtjC5xDF9pCuTyYBB5bi6bQ4syoJ3g9WQ0ymaiLzg5KdCXlKLjvcW893 SUOqXwnz5DrgnHtJTxOsQfEKIT7DmDSUCaxw7Rqn8787ZsmRM9e2VmPeBN4uqYvTtW7jvijg9N/y JsXecLq0q+WD6m8AAAD//wMAUEsDBBQABgAIAAAAIQA4/SH/1gAAAJQBAAALAAAAX3JlbHMvLnJl bHOkkMFqwzAMhu+DvYPRfXGawxijTi+j0GvpHsDYimMaW0Yy2fr2M4PBMnrbUb/Q94l/f/hMi1qR JVI2sOt6UJgd+ZiDgffL8ekFlFSbvV0oo4EbChzGx4f9GRdb25HMsYhqlCwG5lrLq9biZkxWOiqY 22YiTra2kYMu1l1tQD30/bPm3wwYN0x18gb45AdQl1tp5j/sFB2T0FQ7R0nTNEV3j6o9feQzro1i OWA14Fm+Q8a1a8+Bvu/d/dMb2JY5uiPbhG/ktn4cqGU/er3pcvwCAAD//wMAUEsDBBQABgAIAAAA IQDphtr4YQIAANYEAAAOAAAAZHJzL2Uyb0RvYy54bWysVN9v2jAQfp+0/8Hy+xqgFFrUUCEQ06Sq RWqnPhvHJpEcn3c2JOyv39lJoe36NI0Hc+f7/fm73N61tWEHhb4Cm/PhxYAzZSUUld3l/Ofz+ts1 Zz4IWwgDVuX8qDy/m3/9ctu4mRpBCaZQyCiJ9bPG5bwMwc2yzMtS1cJfgFOWjBqwFoFU3GUFioay 1yYbDQaTrAEsHIJU3tPtqjPyecqvtZLhUWuvAjM5p95COjGd23hm81sx26FwZSX7NsQ/dFGLylLR U6qVCILtsforVV1JBA86XEioM9C6kirNQNMMBx+meSqFU2kWAse7E0z+/6WVD4cnt0GCoXF+5kmM U7Qa6/hP/bE2gXU8gaXawCRdDgej6fiSMJVkG11PLq+vIprZOdqhD98V1CwKOUd6jISRONz70Lm+ usRiHkxVrCtjknL0S4PsIOjd6LkLaDgzwge6zPk6/fpq78KMZQ11czUexMYEEUobEUisXZFzb3ec CbMjpsqAqZd30R5321PV9fRmMp58ViQ2vRK+7LpLGXo3Y2PvKvGun/EMa5RCu21ZRa1MY0S82UJx 3CBD6KjpnVxXlP+eZt0IJC7SILRf4ZEObYCmg17irAT8/dl99CeKkJWzhrhNk//aC1QE4Q9L5LkZ jsdxGZIyvpqOSMG3lu1bi93XS6BnGNImO5nE6B/Mq6gR6hdaw0WsSiZhJdXuMO6VZeh2jhZZqsUi udECOBHu7ZOTMXlELiL73L4IdD1nArHtAV73QMw+UKfzjZEWFvsAukq8OuNKfIwKLU9iZr/ocTvf 6snr/Dma/wEAAP//AwBQSwMEFAAGAAgAAAAhANGb2N7dAAAACQEAAA8AAABkcnMvZG93bnJldi54 bWxMj8FOwzAQRO9I/IO1SNyok1RAk8apEIgjSIQe4OYmWyeqvY5iJw1/z3Kip9VoRzPzyt3irJhx DL0nBekqAYHU+LYno2D/+Xq3ARGiplZbT6jgBwPsquurUhetP9MHznU0gkMoFFpBF+NQSBmaDp0O Kz8g8e/oR6cjy9HIdtRnDndWZknyIJ3uiRs6PeBzh82pnpyClzeTz192Hy0dl0ma76mu83elbm+W py2IiEv8N8PffJ4OFW86+InaICzrPGWWqGD9yJcN6/uMWQ4KNlkKsirlJUH1CwAA//8DAFBLAQIt ABQABgAIAAAAIQC2gziS/gAAAOEBAAATAAAAAAAAAAAAAAAAAAAAAABbQ29udGVudF9UeXBlc10u eG1sUEsBAi0AFAAGAAgAAAAhADj9If/WAAAAlAEAAAsAAAAAAAAAAAAAAAAALwEAAF9yZWxzLy5y ZWxzUEsBAi0AFAAGAAgAAAAhAOmG2vhhAgAA1gQAAA4AAAAAAAAAAAAAAAAALgIAAGRycy9lMm9E b2MueG1sUEsBAi0AFAAGAAgAAAAhANGb2N7dAAAACQEAAA8AAAAAAAAAAAAAAAAAuwQAAGRycy9k b3ducmV2LnhtbFBLBQYAAAAABAAEAPMAAADFBQAAAAA= ">
+                <v:textbox>
+                  <w:txbxContent>
+                    <w:p w:rsidR="00AC5403" w:rsidP="00AC5403" w:rsidRDefault="00AC5403" w14:paraId="50782AC1" w14:textId="77777777">
+                      <w:pPr>
+                        <w:jc w:val="center"/>
+                      </w:pPr>
+                      <w:r>
+                        <w:rPr>
+                          <w:b/>
+                          <w:color w:val="172A4D"/>
+                          <w:sz w:val="18"/>
+                          <w:szCs w:val="18"/>
+                        </w:rPr>
+                        <w:t xml:space="preserve">SAP SCV2                 </w:t>
+                      </w:r>
+                      
+                    </w:p>
+                  </w:txbxContent>
+                </v:textbox>
+                <w10:wrap anchorx="margin"/>
+              </v:rect>
+            </w:pict>
+          </mc:Fallback>
+        </mc:AlternateContent>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="00AD5A34" w:rsidP="579D5B40" w:rsidRDefault="007E28CF" w14:textId="275F6A42" w14:paraId="516922EC">
+      <w:pPr>
+        <w:spacing w:line="525" w:lineRule="auto"/>
+        <w:ind w:left="67" w:right="4499"/>
+        <w:rPr>
+          <w:b w:val="1"/>
+          <w:bCs w:val="1"/>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w:rsidR="00AD5A34" w:rsidP="579D5B40" w:rsidRDefault="007E28CF" w14:paraId="674F7D6F" w14:textId="6D110E82">
+      <w:pPr>
+        <w:pStyle w:val="Normal"/>
+        <w:spacing w:line="525" w:lineRule="auto"/>
+        <w:ind w:left="67" w:right="4499"/>
+        <w:rPr>
+          <w:b w:val="1"/>
+          <w:bCs w:val="1"/>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b w:val="1"/>
+          <w:bCs w:val="1"/>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t>Package</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t>: {{PACKAGE_NAME}}</w:t>
+      </w:r>
+      
+    </w:p>
+    <w:p w:rsidR="00F94EF1" w:rsidP="00423350" w:rsidRDefault="00000000" w14:paraId="187878FB" w14:textId="374B11AF">
+      <w:pPr>
+        <w:spacing w:line="525" w:lineRule="auto"/>
+        <w:ind w:left="67" w:right="4499"/>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t>Flow</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t>:</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:spacing w:val="80"/>
+          <w:w w:val="150"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t>{{FLOW_NAME}}</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="00AC5403" w:rsidP="00423350" w:rsidRDefault="00AC5403" w14:paraId="49CED1FB" w14:textId="0B4D5AE8">
+      <w:pPr>
+        <w:spacing w:line="525" w:lineRule="auto"/>
+        <w:ind w:left="67" w:right="4499"/>
+        <w:rPr>
+          <w:noProof/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="31A52497" wp14:editId="3E3CED02">
+            <wp:extent cx="6368415" cy="2367280"/>
+            <wp:effectExtent l="0" t="0" r="0" b="0"/>
+            <wp:docPr id="1221576487" name="Picture 1"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="1221576487" name=""/>
+                    <pic:cNvPicPr/>
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId11"/>
+                    <a:stretch>
+                      <a:fillRect/>
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0"/>
+                      <a:ext cx="6368415" cy="2367280"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst/>
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="00AC5403" w:rsidP="00423350" w:rsidRDefault="00AC5403" w14:paraId="0DB896B9" w14:textId="065D3206">
+      <w:pPr>
+        <w:spacing w:line="525" w:lineRule="auto"/>
+        <w:ind w:left="67" w:right="4499"/>
+        <w:rPr>
+          <w:noProof/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="4054C873" wp14:editId="6945318C">
+            <wp:extent cx="6368415" cy="2585085"/>
+            <wp:effectExtent l="0" t="0" r="0" b="5715"/>
+            <wp:docPr id="1720636992" name="Picture 1"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="1720636992" name=""/>
+                    <pic:cNvPicPr/>
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId12"/>
+                    <a:stretch>
+                      <a:fillRect/>
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0"/>
+                      <a:ext cx="6368415" cy="2585085"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst/>
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="00F94EF1" w:rsidP="000A0010" w:rsidRDefault="00AC5403" w14:paraId="60C6056E" w14:textId="44693E10">
+      <w:pPr>
+        <w:spacing w:line="525" w:lineRule="auto"/>
+        <w:ind w:left="67" w:right="4499"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="3AC26A25" wp14:editId="4F6EDE4A">
+            <wp:extent cx="4029637" cy="2829320"/>
+            <wp:effectExtent l="0" t="0" r="0" b="9525"/>
+            <wp:docPr id="2005436195" name="Picture 1"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="2005436195" name=""/>
+                    <pic:cNvPicPr/>
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId13"/>
+                    <a:stretch>
+                      <a:fillRect/>
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0"/>
+                      <a:ext cx="4029637" cy="2829320"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst/>
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:p w:rsidRPr="00432F9E" w:rsidR="00AB50BE" w:rsidP="00AB50BE" w:rsidRDefault="00000000" w14:paraId="40BBD82C" w14:textId="3E9F2705">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+        <w:tabs>
+          <w:tab w:val="left" w:pos="311"/>
+        </w:tabs>
+        <w:spacing w:before="52" w:line="357" w:lineRule="auto"/>
+        <w:ind w:left="310" w:right="474" w:hanging="161"/>
+        <w:rPr>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t>SAP</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="172A4D"/>
+          <w:spacing w:val="-2"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t>SCV2 &amp; SAP</w:t>
+      </w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="172A4D"/>
+          <w:spacing w:val="-2"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t>CI Connectivity</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t>{{CONNECTIVITY_SENDER}}</w:t>
+      </w:r>
+      
+      
+      
+    </w:p>
+    <w:p w:rsidRPr="00432F9E" w:rsidR="00F94EF1" w:rsidP="00AB50BE" w:rsidRDefault="00000000" w14:paraId="75664D5D" w14:textId="67658129">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+        <w:tabs>
+          <w:tab w:val="left" w:pos="311"/>
+        </w:tabs>
+        <w:spacing w:before="52" w:line="357" w:lineRule="auto"/>
+        <w:ind w:left="310" w:right="474" w:hanging="161"/>
+        <w:rPr>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t>Input</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="172A4D"/>
+          <w:spacing w:val="-2"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t>format</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t>:</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:spacing w:val="-1"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t>{{INPUT_FORMAT}}</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidRPr="00432F9E" w:rsidR="00F94EF1" w:rsidRDefault="00000000" w14:paraId="70B2D19B" w14:textId="23AB0FCC">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+        <w:tabs>
+          <w:tab w:val="left" w:pos="310"/>
+        </w:tabs>
+        <w:ind w:left="310" w:hanging="161"/>
+        <w:rPr>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:bookmarkStart w:name="_Hlk219814009" w:id="6"/>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t>SAP</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="172A4D"/>
+          <w:spacing w:val="-5"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t>CI</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="172A4D"/>
+          <w:spacing w:val="-2"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t>&amp;</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="172A4D"/>
+          <w:spacing w:val="-1"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t>SAP</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="172A4D"/>
+          <w:spacing w:val="-5"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t>Datasphere</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="172A4D"/>
+          <w:spacing w:val="-2"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t>Connectivity:</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="172A4D"/>
+          <w:spacing w:val="-1"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t>connectivity</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:spacing w:val="-2"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t>setup</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:spacing w:val="-2"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t>{{CONNECTIVITY_RECEIVER}}</w:t>
+      </w:r>
+    </w:p>
+    <w:bookmarkEnd w:id="6"/>
+    <w:p w:rsidRPr="00432F9E" w:rsidR="00F94EF1" w:rsidRDefault="00000000" w14:paraId="17202C02" w14:textId="06B1E7D3">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+        <w:tabs>
+          <w:tab w:val="left" w:pos="310"/>
+        </w:tabs>
+        <w:spacing w:before="142"/>
+        <w:ind w:left="310" w:hanging="161"/>
+        <w:rPr>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t>Output</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="172A4D"/>
+          <w:spacing w:val="-1"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t>format</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t>:</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="172A4D"/>
+          <w:spacing w:val="-1"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t xml:space="preserve">{{OUTPUT_FORMAT}}</w:t>
+      </w:r>
+      
+    </w:p>
+    <w:p w:rsidRPr="00432F9E" w:rsidR="00F94EF1" w:rsidRDefault="00F94EF1" w14:paraId="51CE8F37" w14:textId="77777777">
+      <w:pPr>
+        <w:pStyle w:val="BodyText"/>
+        <w:rPr>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w:rsidRPr="00432F9E" w:rsidR="00F94EF1" w:rsidRDefault="00F94EF1" w14:paraId="7C590FFC" w14:textId="77777777">
+      <w:pPr>
+        <w:pStyle w:val="BodyText"/>
+        <w:spacing w:before="91"/>
+        <w:rPr>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w:rsidR="00F94EF1" w:rsidP="00CE25CC" w:rsidRDefault="00000000" w14:paraId="7FC74309" w14:textId="77777777">
+      <w:pPr>
+        <w:pStyle w:val="Heading1"/>
+        <w:rPr>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:bookmarkStart w:name="_Toc219816050" w:id="7"/>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t>Implementation &amp; Configuration</w:t>
+      </w:r>
+      <w:bookmarkEnd w:id="7"/>
+    </w:p>
+    <w:p w:rsidR="00DE074D" w:rsidP="00CE25CC" w:rsidRDefault="00DE074D" w14:paraId="444ADC95" w14:textId="77777777">
+      <w:pPr>
+        <w:pStyle w:val="Heading1"/>
+        <w:rPr>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w:rsidR="00DE074D" w:rsidP="007E76C9" w:rsidRDefault="007E76C9" w14:paraId="52F87456" w14:textId="1051FC3B">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="5"/>
+        </w:numPr>
+        <w:rPr>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t>{{IMPL_BULLET_1}}</w:t>
+      </w:r>
+      
+      
+      
+      
+    </w:p>
+    <w:p w:rsidR="007E76C9" w:rsidP="007E76C9" w:rsidRDefault="007E76C9" w14:paraId="52F74C70" w14:textId="1CF6B9D8">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="5"/>
+        </w:numPr>
+        <w:rPr>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t>{{IMPL_BULLET_2}}</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="007E76C9" w:rsidP="007E76C9" w:rsidRDefault="009D0041" w14:paraId="1AB811AB" w14:textId="4026A8C1">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="5"/>
+        </w:numPr>
+        <w:rPr>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t>{{IMPL_BULLET_3}}</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w:rsidR="0006108E" w:rsidP="007E76C9" w:rsidRDefault="0006108E" w14:paraId="6E202E40" w14:textId="2976C19B">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="5"/>
+        </w:numPr>
+        <w:rPr>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t>{{IMPL_BULLET_4}}</w:t>
+      </w:r>
+      
+      
+    </w:p>
+    <w:p w:rsidR="00973878" w:rsidP="00973878" w:rsidRDefault="00973878" w14:paraId="0AC3BD49" w14:textId="77777777">
+      <w:pPr>
+        <w:rPr>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w:rsidRPr="00556532" w:rsidR="00973878" w:rsidP="00973878" w:rsidRDefault="00973878" w14:paraId="367A3C22" w14:textId="4D8C5AD8">
+      <w:pPr>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Exception subprocess</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidRPr="00556532" w:rsidR="00973878" w:rsidP="00973878" w:rsidRDefault="00973878" w14:paraId="5735D8FC" w14:textId="77777777">
+      <w:pPr>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w:rsidR="00973878" w:rsidP="00973878" w:rsidRDefault="00973878" w14:paraId="50BFB192" w14:textId="5B7CF900">
+      <w:pPr>
+        <w:rPr>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t>{{EXCEPTION_TEXT}}</w:t>
+      </w:r>
+      
+      
+    </w:p>
+    <w:p w:rsidRPr="00432F9E" w:rsidR="00556532" w:rsidP="00556532" w:rsidRDefault="00556532" w14:paraId="15CA786F" w14:textId="77777777">
+      <w:pPr>
+        <w:tabs>
+          <w:tab w:val="left" w:pos="309"/>
+          <w:tab w:val="left" w:pos="311"/>
+        </w:tabs>
+        <w:spacing w:before="131" w:line="357" w:lineRule="auto"/>
+        <w:ind w:right="259"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="20"/>
+          <w:szCs w:val="20"/>
+        </w:rPr>
+        <w:t>Interface connected via ProcessDirect adapter to give mail alerts</w:t>
+      </w:r>
+      
+      
+      
+      
+    </w:p>
+    <w:bookmarkStart w:name="_MON_1829918084" w:id="8"/>
+    <w:bookmarkEnd w:id="8"/>
+    <w:p w:rsidR="00DE074D" w:rsidP="00556532" w:rsidRDefault="00556532" w14:paraId="3404BCB7" w14:textId="331AAC6D">
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="16"/>
+          <w:szCs w:val="16"/>
+        </w:rPr>
+        <w:object w:dxaOrig="1508" w:dyaOrig="984" w14:anchorId="6BF38482">
+          <v:shape id="_x0000_i1026" style="width:75.5pt;height:49pt" o:ole="" type="#_x0000_t75">
+            <v:imagedata o:title="" r:id="rId14"/>
+          </v:shape>
+          <o:OLEObject Type="Embed" ProgID="Word.Document.12" ShapeID="_x0000_i1026" DrawAspect="Icon" ObjectID="_1830428882" r:id="rId15">
+            <o:FieldCodes>\s</o:FieldCodes>
+          </o:OLEObject>
+        </w:object>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="00DE074D" w:rsidP="00102574" w:rsidRDefault="00DE074D" w14:paraId="0980550E" w14:textId="77777777">
+      <w:pPr>
+        <w:pStyle w:val="Heading1"/>
+      </w:pPr>
+    </w:p>
+    <w:p w:rsidRPr="00BB076C" w:rsidR="00F94EF1" w:rsidP="00BB076C" w:rsidRDefault="00000000" w14:paraId="4A497539" w14:textId="34C876BF">
+      <w:pPr>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Configurations :</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidRPr="00102574" w:rsidR="00556532" w:rsidP="00102574" w:rsidRDefault="00556532" w14:paraId="78F369EC" w14:textId="77777777">
+      <w:pPr>
+        <w:pStyle w:val="Heading1"/>
+      </w:pPr>
+    </w:p>
+    <w:p w:rsidR="00F94EF1" w:rsidP="00CE25CC" w:rsidRDefault="00CE25CC" w14:paraId="77F84719" w14:textId="319DA892">
+      <w:pPr>
+        <w:spacing w:line="518" w:lineRule="auto"/>
+        <w:ind w:right="7268"/>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="16"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="16"/>
+        </w:rPr>
+        <w:t xml:space="preserve">  Sender</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="172A4D"/>
+          <w:spacing w:val="-7"/>
+          <w:sz w:val="16"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="16"/>
+        </w:rPr>
+        <w:t>:</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="00556532" w:rsidP="00CE25CC" w:rsidRDefault="00556532" w14:paraId="6F0E922D" w14:textId="7574F0E5">
+      <w:pPr>
+        <w:spacing w:line="518" w:lineRule="auto"/>
+        <w:ind w:right="7268"/>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="16"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:noProof/>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="16"/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="224A7063" wp14:editId="3857779E">
+            <wp:extent cx="6368415" cy="3173095"/>
+            <wp:effectExtent l="0" t="0" r="0" b="8255"/>
+            <wp:docPr id="441364634" name="Picture 1"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="441364634" name=""/>
+                    <pic:cNvPicPr/>
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId16"/>
+                    <a:stretch>
+                      <a:fillRect/>
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0"/>
+                      <a:ext cx="6368415" cy="3173095"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst/>
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="00556532" w:rsidP="00CE25CC" w:rsidRDefault="00556532" w14:paraId="7BE0F059" w14:textId="5C5D1537">
+      <w:pPr>
+        <w:spacing w:line="518" w:lineRule="auto"/>
+        <w:ind w:right="7268"/>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="16"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w:rsidR="00CE25CC" w:rsidRDefault="00CE25CC" w14:paraId="304A181B" w14:textId="7C5334D4">
+      <w:pPr>
+        <w:spacing w:line="518" w:lineRule="auto"/>
+        <w:ind w:left="67" w:right="7268"/>
+        <w:rPr>
+          <w:b/>
+          <w:sz w:val="16"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w:rsidR="00CE25CC" w:rsidP="00CE25CC" w:rsidRDefault="00CE25CC" w14:paraId="3BDC5020" w14:textId="555D13F5">
+      <w:pPr>
+        <w:spacing w:line="518" w:lineRule="auto"/>
+        <w:ind w:right="7268"/>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="16"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="172A4D"/>
+          <w:spacing w:val="-7"/>
+          <w:sz w:val="16"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="16"/>
+        </w:rPr>
+        <w:t>Receivers</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="172A4D"/>
+          <w:spacing w:val="-7"/>
+          <w:sz w:val="16"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="16"/>
+        </w:rPr>
+        <w:t>:</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="00556532" w:rsidP="00CE25CC" w:rsidRDefault="00556532" w14:paraId="7E8AE2CA" w14:textId="304488D5">
+      <w:pPr>
+        <w:spacing w:line="518" w:lineRule="auto"/>
+        <w:ind w:right="7268"/>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="16"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:noProof/>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="16"/>
+        </w:rPr>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="50422EDE" wp14:editId="1AD437D9">
+            <wp:extent cx="6368415" cy="2331085"/>
+            <wp:effectExtent l="0" t="0" r="0" b="0"/>
+            <wp:docPr id="2070073094" name="Picture 1"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="2070073094" name=""/>
+                    <pic:cNvPicPr/>
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId17"/>
+                    <a:stretch>
+                      <a:fillRect/>
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0"/>
+                      <a:ext cx="6368415" cy="2331085"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst/>
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="00556532" w:rsidP="00CE25CC" w:rsidRDefault="00556532" w14:paraId="0CDB31BA" w14:textId="32DFA8C2">
+      <w:pPr>
+        <w:spacing w:line="518" w:lineRule="auto"/>
+        <w:ind w:right="7268"/>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="16"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:noProof/>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="16"/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="4959DDD6" wp14:editId="1D463810">
+            <wp:extent cx="6368415" cy="2395855"/>
+            <wp:effectExtent l="0" t="0" r="0" b="4445"/>
+            <wp:docPr id="428448732" name="Picture 1"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="428448732" name=""/>
+                    <pic:cNvPicPr/>
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId18"/>
+                    <a:stretch>
+                      <a:fillRect/>
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0"/>
+                      <a:ext cx="6368415" cy="2395855"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst/>
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="00556532" w:rsidP="00CE25CC" w:rsidRDefault="00556532" w14:paraId="2CD33922" w14:textId="21DD4FCD">
+      <w:pPr>
+        <w:spacing w:line="518" w:lineRule="auto"/>
+        <w:ind w:right="7268"/>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="16"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:noProof/>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="16"/>
+        </w:rPr>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="424B1F06" wp14:editId="6C3252E0">
+            <wp:extent cx="6368415" cy="1767840"/>
+            <wp:effectExtent l="0" t="0" r="0" b="3810"/>
+            <wp:docPr id="1189341328" name="Picture 1"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="1189341328" name=""/>
+                    <pic:cNvPicPr/>
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId19"/>
+                    <a:stretch>
+                      <a:fillRect/>
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0"/>
+                      <a:ext cx="6368415" cy="1767840"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst/>
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="00CE25CC" w:rsidRDefault="00556532" w14:paraId="724428C0" w14:textId="2F9D6614">
+      <w:pPr>
+        <w:spacing w:line="518" w:lineRule="auto"/>
+        <w:ind w:left="67" w:right="7268"/>
+        <w:rPr>
+          <w:b/>
+          <w:sz w:val="16"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:noProof/>
+          <w:sz w:val="16"/>
+        </w:rPr>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="4461CFCD" wp14:editId="696248E0">
+            <wp:extent cx="6368415" cy="1659890"/>
+            <wp:effectExtent l="0" t="0" r="0" b="0"/>
+            <wp:docPr id="1414496980" name="Picture 1"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="1414496980" name=""/>
+                    <pic:cNvPicPr/>
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId20"/>
+                    <a:stretch>
+                      <a:fillRect/>
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0"/>
+                      <a:ext cx="6368415" cy="1659890"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst/>
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="00CE25CC" w:rsidRDefault="00CE25CC" w14:paraId="5A33E0C4" w14:textId="044BFA21">
+      <w:pPr>
+        <w:spacing w:line="518" w:lineRule="auto"/>
+        <w:ind w:left="67" w:right="7268"/>
+        <w:rPr>
+          <w:b/>
+          <w:sz w:val="16"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w:rsidR="00F94EF1" w:rsidRDefault="00F94EF1" w14:paraId="2331A890" w14:textId="77777777">
+      <w:pPr>
+        <w:pStyle w:val="BodyText"/>
+        <w:rPr>
+          <w:b/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w:rsidR="00F94EF1" w:rsidRDefault="00F94EF1" w14:paraId="431C5A6E" w14:textId="77777777">
+      <w:pPr>
+        <w:pStyle w:val="BodyText"/>
+        <w:rPr>
+          <w:b/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w:rsidR="00F94EF1" w:rsidRDefault="00F94EF1" w14:paraId="31C5F7B1" w14:textId="67B267EB">
+      <w:pPr>
+        <w:pStyle w:val="BodyText"/>
+        <w:spacing w:before="50"/>
+        <w:rPr>
+          <w:b/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w:rsidR="00F94EF1" w:rsidRDefault="00F94EF1" w14:paraId="12BC10F4" w14:textId="77777777">
+      <w:pPr>
+        <w:pStyle w:val="BodyText"/>
+        <w:spacing w:before="51"/>
+        <w:rPr>
+          <w:b/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w:rsidR="00F94EF1" w:rsidRDefault="00F94EF1" w14:paraId="53E31756" w14:textId="77777777">
+      <w:pPr>
+        <w:pStyle w:val="BodyText"/>
+        <w:spacing w:before="103"/>
+        <w:rPr>
+          <w:b/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w:rsidR="00F94EF1" w:rsidRDefault="00000000" w14:paraId="4A032F02" w14:textId="4D68C95B">
+      <w:pPr>
+        <w:ind w:left="67"/>
+        <w:rPr>
+          <w:b/>
+          <w:sz w:val="16"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="172A4D"/>
+          <w:sz w:val="16"/>
+        </w:rPr>
+        <w:t xml:space="preserve">More </w:t>
+      </w:r>
+      
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="172A4D"/>
+          <w:spacing w:val="-10"/>
+          <w:sz w:val="16"/>
+        </w:rPr>
+        <w:t>:</w:t>
+      </w:r>
+    </w:p><w:p><w:r><w:t>{{ADAPTER_TABLES}}</w:t></w:r></w:p>
+    <w:p w:rsidR="00F94EF1" w:rsidRDefault="00556532" w14:paraId="772F47B9" w14:textId="5F571904">
+      <w:pPr>
+        <w:pStyle w:val="BodyText"/>
+        <w:spacing w:before="48"/>
+        <w:rPr>
+          <w:b/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:noProof/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="2B67A54A" wp14:editId="423CE4DE">
+            <wp:extent cx="5744377" cy="3400900"/>
+            <wp:effectExtent l="0" t="0" r="8890" b="9525"/>
+            <wp:docPr id="1415694289" name="Picture 1"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="1415694289" name=""/>
+                    <pic:cNvPicPr/>
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId21"/>
+                    <a:stretch>
+                      <a:fillRect/>
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0"/>
+                      <a:ext cx="5744377" cy="3400900"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst/>
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:sectPr w:rsidR="00F94EF1" w:rsidSect="00C52954">
+      <w:headerReference w:type="default" r:id="rId22"/>
+      <w:pgSz w:w="12240" w:h="15840" w:orient="portrait"/>
+      <w:pgMar w:top="1134" w:right="1077" w:bottom="278" w:left="1134" w:header="720" w:footer="720" w:gutter="0"/>
+      <w:cols w:space="720"/>
+      <w:footerReference w:type="default" r:id="R4294c9dda8f8496b"/>
+    </w:sectPr>
+  </w:body>
+</w:document>
